@@ -1,0 +1,3 @@
+# Application Listeners
+org.springframework.context.ApplicationListener=\
+com.brave.log.factories.Log4j2MDCListener
